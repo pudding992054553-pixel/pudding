@@ -1,4 +1,4 @@
-<img width="2538" height="1337" alt="image" src="https://github.com/user-attachments/assets/7987d87f-6c28-4535-a626-2bbaa6559f23" /># Instructions for Codex
+
 
 This repository is being used mainly for academic writing and research-project development, not only for programming.
 
