@@ -55,3 +55,18 @@ When revising academic writing, keep a natural student academic tone. Avoid maki
 For research proposals and thesis-related writing, preserve econometric model complexity. Do not simplify fixed effects, interaction terms, triple interactions, or marginal-effect formulas unless explicitly asked.
 
 For economics or applied statistics writing, first check whether the two reference repositories contain useful prompts or skills, then apply them to the task.
+## Always use reference skills
+
+For every academic writing, research proposal, essay, assignment, literature review, methodology, or coding/statistical explanation task, always check and use the following two reference repositories before drafting or revising:
+
+1. `/tmp/reference_repos/Supervisor-Skills/`
+   - Use this as the general academic research and writing skill base.
+   - Check its handbook and skill files for idea evaluation, introduction drafting, paper structure, figure design, and pre-submission review.
+
+2. `/tmp/reference_repos/awesome-ai-econ-research-writing/`
+   - Use this as the economics research writing skill base.
+   - Check its prompts, agents, templates, and examples for economics paper writing, literature review, identification strategy, contribution statement, empirical strategy, structural model explanation, and response to reviewers.
+
+When a task is related to economics, applied statistics, research proposal writing, thesis writing, or academic assignments, do not rely only on general reasoning. First inspect the relevant files in these two folders, then apply the useful guidance to the task.
+
+If the folders are missing, report that clearly and continue using the instructions in this AGENTS.md.
