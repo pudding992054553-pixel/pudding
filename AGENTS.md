@@ -1,4 +1,4 @@
-# Instructions for Codex
+<img width="2538" height="1337" alt="image" src="https://github.com/user-attachments/assets/7987d87f-6c28-4535-a626-2bbaa6559f23" /># Instructions for Codex
 
 This repository is being used mainly for academic writing and research-project development, not only for programming.
 
@@ -32,3 +32,26 @@ When asked to revise the RP:
 3. Keep citations and references internally consistent.
 4. Preserve the research questions, objectives, hypotheses, and empirical model unless the task specifically asks for changes.
 5. If generating a longer version, make the expansion meaningful and section-based.
+# Codex instructions for pudding
+
+You are working in the `pudding` repository.
+
+This repository is mainly used for academic writing, research proposals, essay drafting, assignment support, and coding/statistical tasks.
+
+## Reference repositories
+
+When helping with academic writing or research tasks, also use these reference folders if they exist:
+
+1. `/tmp/reference_repos/Supervisor-Skills/`
+   - Use this for general research guidance, idea evaluation, introduction drafting, paper structure, figure design, and pre-submission review.
+
+2. `/tmp/reference_repos/awesome-ai-econ-research-writing/`
+   - Use this especially for economics research writing, literature review, identification strategy, contribution statement, empirical strategy, structural model explanation, and response to reviewers.
+
+## My writing preference
+
+When revising academic writing, keep a natural student academic tone. Avoid making the writing too polished, too template-like, or too obviously AI-generated. Keep the logic clear, but make the expression close to a graduate student's own writing style.
+
+For research proposals and thesis-related writing, preserve econometric model complexity. Do not simplify fixed effects, interaction terms, triple interactions, or marginal-effect formulas unless explicitly asked.
+
+For economics or applied statistics writing, first check whether the two reference repositories contain useful prompts or skills, then apply them to the task.
